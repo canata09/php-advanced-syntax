@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>Include</title>
+	</head>
+	<body>
+		<?php
+			include("included_func.php");
+		?>
+	</body>
+</html>
